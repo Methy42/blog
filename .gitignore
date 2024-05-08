@@ -23,7 +23,6 @@ build/
 Thumbs.db
 
 # 忽略包管理器生成的文件
-package-lock.json
 yarn.lock
 
 # 忽略测试覆盖率报告
