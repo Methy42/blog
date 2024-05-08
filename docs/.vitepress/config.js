@@ -4,6 +4,8 @@ export default {
     title: 'Methy\'s Blog',
     description: 'Welcome to my Blog, help yourself👏.',
 
+    base: '/blog/',
+
     themeConfig: {
         // 主题级选项
     }
